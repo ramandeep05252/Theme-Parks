@@ -39,7 +39,7 @@ The primary objective of this project is to use Python and Jupyter Notebook on t
 
 - **Programming Language**: Python
 - **Platform**: Jupyter Notebook on Google Colab
-- **Data Source**: 35,000 customer reviews (accessible via Cloud Deakin)
+- **Data Source**: 35,000 customer reviews 
 
 ## Deliverables
 
